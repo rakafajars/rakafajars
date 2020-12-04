@@ -1,5 +1,4 @@
-![Black and White Modern Vintage Pharmacy Back to Business Landscape Banner](https://user-images.githubusercontent.com/73903697/101188486-5e458a80-3688-11eb-9977-24e9bba5a402.png)
-
+### Raka Fajar Salinggih
 ### About me:
 
 - 🔭 I’m currently working #on in a company that focuses on mobile applications#
@@ -11,7 +10,16 @@
 - ⚡ Fun fact: #I am a funny person to people I have known for a long time#
 
 ### Things i code with:
-https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white  https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+
+### My Social Media
+
+
+### My Github Stats
+![Raka FaJar github stats](https://github-readme-stats.vercel.app/api?username=rakafajars&show_icons=true&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakafajars)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
