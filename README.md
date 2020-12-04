@@ -1,4 +1,4 @@
-![Black and White Modern Vintage Pharmacy Back to Business Landscape Banner](https://user-images.githubusercontent.com/73903697/101188285-16befe80-3688-11eb-823f-9b983a759061.png)
+![Black and White Modern Vintage Pharmacy Back to Business Landscape Banner](https://user-images.githubusercontent.com/73903697/101188486-5e458a80-3688-11eb-9977-24e9bba5a402.png)
 
 ### About me:
 
