@@ -26,9 +26,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rakafajars" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rakafajars" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raka-fajar-salinggih-a3a510149" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="raka-fajar-salinggih-a3a510149" height="30" width="40" /></a>
-<a href="https://fb.com/rakapasmada" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rakapasmada" height="30" width="40" /></a>
 <a href="https://instagram.com/rakafajars" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rakafajars" height="30" width="40" /></a>
 <a href="https://medium.com/@rakafajars" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@rakafajars" height="30" width="40" /></a>
 </p>
